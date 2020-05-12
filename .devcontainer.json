@@ -1,0 +1,8 @@
+{
+  "extensions": [
+    "ms-dotnettools.csharp",
+    "ms-vscode.vscode-node-azure-pack",
+    "pflannery.vscode-versionlens"
+  ],
+  "postCreateCommand": "/bin/bash ./post-create.sh > ~/post-create.log"
+}
